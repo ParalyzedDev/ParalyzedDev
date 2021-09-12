@@ -1,5 +1,6 @@
+## Paralyed - Daniel
 - 👋 Hi, I’m @ParalyzedDev
-- 👀 I’m interested in @Solarity
+- 👀 I’m interested in @Kylix
 - 🌱 I’m currently learning CoffeScript, Electron.js
 - 💞️ I’m looking to collaborate on ###
 - 📫 Reach me on discord : Paralyzed#9999
